@@ -1,0 +1,8 @@
+C:/Users/UchlinVV/STM32Cube/Repository/STM32Cube_FW_H7_V1.12.0/Projects/STM32H747I-DISCO/Examples/JPEG/JPEG_DecodingUsingFs_DMA/CM7/Src/decode_dma.c:83:6:JPEG_ResetDecoderState	16	static
+C:/Users/UchlinVV/STM32Cube/Repository/STM32Cube_FW_H7_V1.12.0/Projects/STM32H747I-DISCO/Examples/JPEG/JPEG_DecodingUsingFs_DMA/CM7/Src/decode_dma.c:97:10:JPEG_Decode_DMA	40	static
+C:/Users/UchlinVV/STM32Cube/Repository/STM32Cube_FW_H7_V1.12.0/Projects/STM32H747I-DISCO/Examples/JPEG/JPEG_DecodingUsingFs_DMA/CM7/Src/decode_dma.c:127:10:JPEG_InputHandler	16	static
+C:/Users/UchlinVV/STM32Cube/Repository/STM32Cube_FW_H7_V1.12.0/Projects/STM32H747I-DISCO/Examples/JPEG/JPEG_DecodingUsingFs_DMA/CM7/Src/decode_dma.c:170:6:HAL_JPEG_InfoReadyCallback	16	static
+C:/Users/UchlinVV/STM32Cube/Repository/STM32Cube_FW_H7_V1.12.0/Projects/STM32H747I-DISCO/Examples/JPEG/JPEG_DecodingUsingFs_DMA/CM7/Src/decode_dma.c:180:6:HAL_JPEG_GetDataCallback	16	static
+C:/Users/UchlinVV/STM32Cube/Repository/STM32Cube_FW_H7_V1.12.0/Projects/STM32H747I-DISCO/Examples/JPEG/JPEG_DecodingUsingFs_DMA/CM7/Src/decode_dma.c:216:6:HAL_JPEG_DataReadyCallback	24	static
+C:/Users/UchlinVV/STM32Cube/Repository/STM32Cube_FW_H7_V1.12.0/Projects/STM32H747I-DISCO/Examples/JPEG/JPEG_DecodingUsingFs_DMA/CM7/Src/decode_dma.c:229:6:HAL_JPEG_ErrorCallback	16	static
+C:/Users/UchlinVV/STM32Cube/Repository/STM32Cube_FW_H7_V1.12.0/Projects/STM32H747I-DISCO/Examples/JPEG/JPEG_DecodingUsingFs_DMA/CM7/Src/decode_dma.c:239:6:HAL_JPEG_DecodeCpltCallback	16	static

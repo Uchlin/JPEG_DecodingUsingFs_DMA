@@ -1,0 +1,9 @@
+C:/Users/UchlinVV/STM32Cube/Repository/STM32Cube_FW_H7_V1.12.0/Projects/STM32H747I-DISCO/Examples/JPEG/JPEG_DecodingUsingFs_DMA/CM4/Src/stm32h7xx_it.c:48:6:NMI_Handler	1
+C:/Users/UchlinVV/STM32Cube/Repository/STM32Cube_FW_H7_V1.12.0/Projects/STM32H747I-DISCO/Examples/JPEG/JPEG_DecodingUsingFs_DMA/CM4/Src/stm32h7xx_it.c:57:6:HardFault_Handler	1
+C:/Users/UchlinVV/STM32Cube/Repository/STM32Cube_FW_H7_V1.12.0/Projects/STM32H747I-DISCO/Examples/JPEG/JPEG_DecodingUsingFs_DMA/CM4/Src/stm32h7xx_it.c:70:6:MemManage_Handler	1
+C:/Users/UchlinVV/STM32Cube/Repository/STM32Cube_FW_H7_V1.12.0/Projects/STM32H747I-DISCO/Examples/JPEG/JPEG_DecodingUsingFs_DMA/CM4/Src/stm32h7xx_it.c:83:6:BusFault_Handler	1
+C:/Users/UchlinVV/STM32Cube/Repository/STM32Cube_FW_H7_V1.12.0/Projects/STM32H747I-DISCO/Examples/JPEG/JPEG_DecodingUsingFs_DMA/CM4/Src/stm32h7xx_it.c:96:6:UsageFault_Handler	1
+C:/Users/UchlinVV/STM32Cube/Repository/STM32Cube_FW_H7_V1.12.0/Projects/STM32H747I-DISCO/Examples/JPEG/JPEG_DecodingUsingFs_DMA/CM4/Src/stm32h7xx_it.c:109:6:SVC_Handler	1
+C:/Users/UchlinVV/STM32Cube/Repository/STM32Cube_FW_H7_V1.12.0/Projects/STM32H747I-DISCO/Examples/JPEG/JPEG_DecodingUsingFs_DMA/CM4/Src/stm32h7xx_it.c:118:6:DebugMon_Handler	1
+C:/Users/UchlinVV/STM32Cube/Repository/STM32Cube_FW_H7_V1.12.0/Projects/STM32H747I-DISCO/Examples/JPEG/JPEG_DecodingUsingFs_DMA/CM4/Src/stm32h7xx_it.c:127:6:PendSV_Handler	1
+C:/Users/UchlinVV/STM32Cube/Repository/STM32Cube_FW_H7_V1.12.0/Projects/STM32H747I-DISCO/Examples/JPEG/JPEG_DecodingUsingFs_DMA/CM4/Src/stm32h7xx_it.c:136:6:SysTick_Handler	1

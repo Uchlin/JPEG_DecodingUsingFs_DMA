@@ -1,0 +1,6 @@
+C:/Users/UchlinVV/STM32Cube/Repository/STM32Cube_FW_H7_V1.12.0/Projects/STM32H747I-DISCO/Examples/JPEG/JPEG_DecodingUsingFs_DMA/CM7/Src/sd_diskio.c:57:16:SD_CheckStatus	16	static
+C:/Users/UchlinVV/STM32Cube/Repository/STM32Cube_FW_H7_V1.12.0/Projects/STM32H747I-DISCO/Examples/JPEG/JPEG_DecodingUsingFs_DMA/CM7/Src/sd_diskio.c:74:9:SD_initialize	16	static
+C:/Users/UchlinVV/STM32Cube/Repository/STM32Cube_FW_H7_V1.12.0/Projects/STM32H747I-DISCO/Examples/JPEG/JPEG_DecodingUsingFs_DMA/CM7/Src/sd_diskio.c:84:9:SD_status	16	static
+C:/Users/UchlinVV/STM32Cube/Repository/STM32Cube_FW_H7_V1.12.0/Projects/STM32H747I-DISCO/Examples/JPEG/JPEG_DecodingUsingFs_DMA/CM7/Src/sd_diskio.c:97:9:SD_read	32	static
+C:/Users/UchlinVV/STM32Cube/Repository/STM32Cube_FW_H7_V1.12.0/Projects/STM32H747I-DISCO/Examples/JPEG/JPEG_DecodingUsingFs_DMA/CM7/Src/sd_diskio.c:124:9:SD_write	32	static
+C:/Users/UchlinVV/STM32Cube/Repository/STM32Cube_FW_H7_V1.12.0/Projects/STM32H747I-DISCO/Examples/JPEG/JPEG_DecodingUsingFs_DMA/CM7/Src/sd_diskio.c:151:9:SD_ioctl	56	static
